@@ -1,0 +1,21 @@
+div.box{
+	background-color: lightgrey;
+	margin: 50px;
+	border: 1px solid black;
+	padding: 32px;
+	font-size: 50px;
+	color: red;
+}
+
+p.inner{
+	font-weight: bold;
+	font-size: 100px;
+	background-color:;
+	color: red;
+	margin: 0px;
+	
+}
+
+div.margin{
+	margin:50px;
+}
